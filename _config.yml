@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Lu / Site Title"
+title                    : "WANG Lu / Additive Manufacturing Simulation"
 title_separator          : "-"
 name                     : &name "WANG lu"
 description              : &description "personal description"
