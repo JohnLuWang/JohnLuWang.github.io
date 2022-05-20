@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Lu / Additive Manufacturing Simulation"
+title                    : "WANG Lu / National University of Singapore"
 title_separator          : "-"
 name                     : &name "WANG lu"
 description              : &description "personal description"
