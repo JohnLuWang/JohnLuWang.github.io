@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Lu Wang"
+title                    : "Mr. Lu WANG"
 title_separator          : "-"
 name                     : &name "Lu WANG"
 description              : &description "PhD candidate at National University of Singapore"
 url                      : https://johnluwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnluwang.github.io"
-teaser                   : "BioPic.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mr. Lu Wang"
-  avatar           : "profile.png"
+  name             : "Mr. Lu WANG"
+  avatar           : "Profile.jpg"
   bio              : "PhD Candidate at National University of Singapore, Major in molten pool flow simulation during Metal Additive Manufacturing."
   location         : "Singapore"
   employer         :
