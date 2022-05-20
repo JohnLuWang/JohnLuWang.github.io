@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Lu / National University of Singapore"
+-title                    : "Your Name / Site Title"
++title                    : "Dr. Test Account"
 title_separator          : "-"
 name                     : &name "WANG lu"
 description              : &description "personal description"
