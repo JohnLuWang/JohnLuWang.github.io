@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 * E-mail: wang_lu@u.nus.edu
-* Google Scholar: [Lu Wang NUS](https://scholar.google.com/citations?user=Zgb1iOEAAAAJ&hl=zh-CN)
+* Google Scholar: [Lu Wang@NUS](https://scholar.google.com/citations?user=Zgb1iOEAAAAJ&hl=zh-CN)
