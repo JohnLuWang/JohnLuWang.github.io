@@ -16,8 +16,8 @@ I received my Master and Bachelor degree from School of Naval Architecture and O
 
 Research Interest
 ======
-Additive Manufacturing
-Computational mechanics
+* Additive Manufacturing
+* Computational mechanics
 
 Site-wide configuration
 ------
