@@ -12,7 +12,7 @@ Hi! I am Lu, a Ph.D0 Candidate at the National Univerisity of Singapore in the D
 
 Education backgroud
 ======
-I received my Master and Bachelor degree from School of Naval Architecture and Ocean Engineering, [Huazhong Univerisity of Science and Technology (HUST)](https://www.hust.edu.cn/).
+I received my Master and Bachelor degree from School of Naval Architecture and Ocean Engineering, [Huazhong Univerisity of Science and Technology (HUST)](https://www.hust.edu.cn/), Wuhan, China.
 
 Site-wide configuration
 ------
