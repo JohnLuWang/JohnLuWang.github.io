@@ -2,7 +2,7 @@
 title: "Evaporation model for keyhole dynamics during additive manufacturing of metal"
 collection: publications
 permalink: /publication/2020Evaporation
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'Physical Review Applied'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
