@@ -1,10 +1,10 @@
 ---
 title: "Phase-field modeling of grain evolution in additive manufacturing with addition of reinforcing particles"
 collection: publications
-permalink: /publication/2021Phase_1
+permalink: /publication/2021PhaseAM
 date: 2021-11-01
 venue: 'Additive Manufacturing'
-excerpt: '[Download link](https://doi.org/10.1016/j.addma.2021.102286)'
+excerpt: 'Min Yang, <b>Lu Wang</b>, Wentao Yan'
 
 ---
 <b>Abstract:</b>
