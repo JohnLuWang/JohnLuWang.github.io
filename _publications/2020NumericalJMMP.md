@@ -1,10 +1,10 @@
 ---
 title: "Numerical modeling of laser powder bed fusion of metallic glasses: Prediction of crystallization"
 collection: publications
-permalink: /publication/2020Numerical
+permalink: /publication/2020NumericalJMMP
 date: 2020-12-20
 venue: 'Journal of Micromechanics and Molecular Physics'
-excerpt: '[Download link](https://doi.org/10.1142/S2424913020500137)'
+excerpt: 'Yicheng Han, <b>Lu Wang</b>, Ke Liu, Wentao Yan'
 
 ---
 <b>Abstract:</b>
