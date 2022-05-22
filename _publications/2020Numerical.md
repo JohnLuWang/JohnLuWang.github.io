@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020Numerical
 date: 2020-12-20
 venue: 'Journal of Micromechanics and Molecular Physics'
-excerpt: 'World Scientific Publishing Company'
+excerpt: '[https://doi.org/10.1142/S2424913020500137](https://doi.org/10.1142/S2424913020500137)'
 
 ---
 <b>Abstract:</b>
