@@ -2,7 +2,7 @@
 title: "Evaporation model for keyhole dynamics during additive manufacturing of metal"
 collection: publications
 permalink: /publication/2020Evaporation
-date: 2020
+date: 2020-12-14
 venue: 'Physical Review Applied'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Physical Review Applied</i>. 1(1).'
 ---
