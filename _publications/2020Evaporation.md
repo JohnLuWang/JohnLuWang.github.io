@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020Evaporation
 date: 2020-12-14
 venue: 'Physical Review Applied'
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'American Physical Society'
 
 ---
 <b>Abstract:</b>
