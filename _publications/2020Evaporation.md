@@ -11,4 +11,5 @@ The molten-pool flow, particularly the keyhole effect, plays a critical role in 
 
 [Download paper here](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.064039)
 
-Recommended citation: Wang, Lu, Yanming Zhang, and Wentao Yan. "Evaporation model for keyhole dynamics during additive manufacturing of metal." <i>Physical Review Applied</i> 14.6 (2020): 064039.
+<b>Recommended citation:</b>
+Wang, Lu, Yanming Zhang, and Wentao Yan. "Evaporation model for keyhole dynamics during additive manufacturing of metal." <i>Physical Review Applied</i> 14.6 (2020): 064039.
