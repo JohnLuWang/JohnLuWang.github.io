@@ -1,10 +1,10 @@
 ---
 title: "Thermoelectric magnetohydrodynamic model for laser-based metal additive manufacturing"
 collection: publications
-permalink: /publication/2021Thermoelectric
+permalink: /publication/2021ThermoelectricPRApp
 date: 2021-06-21
 venue: 'Physical Review Applied'
-excerpt: '[Download link](https://doi.org/10.1103/PhysRevApplied.15.064051)'
+excerpt: '<b>Lu Wang</b>, Wentao Yan'
 
 ---
 <b>Abstract:</b>
