@@ -1,5 +1,5 @@
 ---
-title: "Mechanism of keyhole pore formation in metal additive manufacturing"
+title: "Microscale residual stresses in additively manufactured stainless steel: Computational simulation"
 collection: publications
 permalink: /publication/2022Microscale
 date: 2022-04-01
