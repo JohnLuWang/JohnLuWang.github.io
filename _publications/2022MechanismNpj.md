@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022Mechanism
 date: 2022-01-27
 venue: 'npj Computational Materials'
-excerpt: '[Download link](https://doi.org/10.1038/s41524-022-00699-6)'
+excerpt: '<b>Lu Wang</b>, Yanming Zhang, Hou Yi Chia, Wentao Yan'
 
 ---
 <b>Abstract:</b>
