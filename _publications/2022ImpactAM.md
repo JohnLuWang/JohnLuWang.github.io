@@ -1,10 +1,10 @@
 ---
 title: "Impact of fluid flow on the dendrite growth and the formation of new grains in additive manufacturing"
 collection: publications
-permalink: /publication/2022Impact
+permalink: /publication/2022ImpactAM
 date: 2022-04-25
 venue: 'Additive Manufacturing'
-excerpt: '[Download link](https://doi.org/10.1016/j.addma.2022.102832)'
+excerpt: 'Yefeng Yu, <b>Lu Wang</b>, Jun Zhou, Hongxin Li, Yang Li, Wentao Yan, Feng Lin'
 
 ---
 <b>Abstract:</b>
