@@ -1,10 +1,10 @@
 ---
 title: "Microscale residual stresses in additively manufactured stainless steel: Computational simulation"
 collection: publications
-permalink: /publication/2022Microscale
-excerpt: 'Daijun Hu, Nicolò Grilli, <b>Lu Wang</b>, Min Yang, Wentao Yan'
+permalink: /publication/2022MicroscaleJMPS
 date: 2022-04-01
 venue: 'Journal of the Mechanics and Physics of Solids'
+excerpt: 'Daijun Hu, Nicolò Grilli, <b>Lu Wang</b>, Min Yang, Wentao Yan'
 
 ---
 <b>Abstract:</b>
