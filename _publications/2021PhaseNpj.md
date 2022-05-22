@@ -1,10 +1,10 @@
 ---
 title: "Phase-field modeling of grain evolutions in additive manufacturing from nucleation, growth, to coarsening"
 collection: publications
-permalink: /publication/2021Phase
+permalink: /publication/2021PhaseNpj
 date: 2021-04-28
 venue: 'Npj Computational Materials'
-excerpt: '[Download link](https://doi.org/10.1038/s41524-021-00524-6)'
+excerpt: 'Min Yang, <b>Lu Wang</b>, Wentao Yan'
 
 ---
 <b>Abstract:</b>
