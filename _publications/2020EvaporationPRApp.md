@@ -1,10 +1,10 @@
 ---
 title: "Evaporation model for keyhole dynamics during additive manufacturing of metal"
 collection: publications
-permalink: /publication/2020Evaporation
+permalink: /publication/2020EvaporationPRApp
 date: 2020-12-14
 venue: 'Physical Review Applied'
-excerpt: '[Download link](https://doi.org/10.1103/PhysRevApplied.14.064039)'
+excerpt: '<b>Lu Wang</b>, Yanming Zhang, Wentao Yan'
 
 ---
 <b>Abstract:</b>
