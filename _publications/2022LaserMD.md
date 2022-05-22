@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022LaserMD
 date: 2022-05-01
 venue: 'Materials & Design'
-excerpt: '[Download link](https://doi.org/10.1016/j.matdes.2022.110635)'
+excerpt: 'Sheng Zhang, Minglu Ding, <b>Lu Wang<b>, Wenjun Ge, Wentao Yan'
 
 ---
 <b>Abstract:</b>
