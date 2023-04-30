@@ -12,6 +12,7 @@ Education
 * B.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2013
 * M.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2016
 * Ph.D in Department of Mechanical Engineering, National University of Singapore, 2023 (expected)
+  * Supervisor: Dr. Wentao Yan and Prof. Heow Pueh Lee
 
 Working Experience
 ---
