@@ -27,4 +27,4 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-[Download resume](http://academicpages.github.io/files/paper1.pdf)
+[Download resume](http://academicpages.github.io/files/resume_WangLu_Uni.pdf)
