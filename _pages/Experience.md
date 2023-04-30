@@ -15,7 +15,8 @@ Education
 
 Working Experience
 ---
-
+* Teaching assitant, National Univerisity of Singapore (NUS), 2020-2021
+* Research associate, Huazhong Univerisity of Science and Technology (HUST), 2019
 
 Selected awards
 ---
