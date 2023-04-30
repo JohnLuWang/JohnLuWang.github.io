@@ -12,7 +12,7 @@ author_profile: true
 {% endif %}
 
 {% if author.googlescholar %}
-  You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
+  You can also find my papers on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.
 {% endif %}
 
 {% for post in site.publications reversed %}
