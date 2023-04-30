@@ -17,5 +17,6 @@ I received my Master and Bachelor degree from School of Naval Architecture and O
 Research Interest
 ======
 * Additive Manufacturing
+* Molten pool flow dynamic simulation
 * Computational mechanics
 
