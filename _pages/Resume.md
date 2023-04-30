@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download resume](http://academicpages.github.io/files/resume_WangLu_Uni.pdf)
+[Download resume](http://johnluwang.github.io/files/resume_WangLu_Uni.pdf)
