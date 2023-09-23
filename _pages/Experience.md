@@ -9,10 +9,10 @@ redirect_from:
 
 Education
 ---
-* B.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2013
-* M.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2016
-* Ph.D in Department of Mechanical Engineering, National University of Singapore, 2023
+* Ph.D in College of Design and Engineering, National University of Singapore (NUS), 2023
   * Supervisor: [Dr. Wentao Yan](https://cde.nus.edu.sg/me/staff/yan-wentao/) and [Prof. Heow Pueh Lee](https://cde.nus.edu.sg/me/staff/lee-heow-pueh/)
+* M.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2016
+* B.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2013
 
 Working Experience
 ---
