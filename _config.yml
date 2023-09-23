@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr. Lu WANG"
+title                    : "Dr. Lu WANG"
 title_separator          : "-"
 name                     : &name "Lu WANG"
-description              : &description "PhD candidate at National University of Singapore"
+description              : &description "Research Fellow at National University of Singapore"
 url                      : https://johnluwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnluwang.github.io"
