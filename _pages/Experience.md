@@ -30,5 +30,5 @@ Selected awards
 <br/><img src='/images/2022Oversea Scholarship.jpg'>
 **Chinese Government Award for Outstanding Self-financed Students Abroad**
 
-<br/><img src='/images/2022Nist.jpgg'>
+<br/><img src='/images/2022Nist.jpg'>
 **2022 NIST AM-Bench Simulation Challenges Awards**
