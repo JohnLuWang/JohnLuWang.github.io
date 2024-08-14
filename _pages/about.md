@@ -30,4 +30,3 @@ Research Interest
 <br/><img src='/images/Modelling.jpg'>
 **High-fidelity multi-scale multiphysics simulation framework**
 
-#<br/><img src='/images/MP.jpg'>
