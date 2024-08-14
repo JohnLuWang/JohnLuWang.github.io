@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Dr. Lu Wang, an Assistant Professor in the Department of Mechanical Engineering at the City University of Hong Kong (CityU). Prior to joining CityU, I served as a research fellow at the National University of Singapore (NUS) in 2024. I earned my Ph.D. in Mechanical Engineering from NUS in 2023 and completed my Bachelor’s and Master’s degrees at Huazhong University of Science and Technology (HUST) in 2013 and 2016, respectively.
+Hi! I am Dr. Lu Wang, an Assistant Professor in the Department of Mechanical Engineering at the City University of Hong Kong (CityU). Prior to joining CityU, I served as a research fellow at the National University of Singapore (NUS) in 2024. I earned my Ph.D. in Mechanical Engineering from NUS in 2023 and completed my Master’s and Bachelor’s degrees at Huazhong University of Science and Technology (HUST) in 2016 and 2013, respectively.
 
 My research focuses on advanced manufacturing, with a particular emphasis on next-generation digital and smart manufacturing enabled by high-fidelity multi-scale, multi-physics modeling and advanced in-situ experiments. By integrating numerical simulations with advanced experimental observations, I investigate defect formation mechanisms, analyze microstructure evolution, and optimize structural performance during advanced manufacturing processes.
 
