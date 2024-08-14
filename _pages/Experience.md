@@ -7,19 +7,19 @@ redirect_from:
   - /Experience.html
 ---
 
-Education
----
-* Ph.D in College of Design and Engineering, National University of Singapore (NUS), 2023
-  * Supervisor: [Dr. Wentao Yan](https://cde.nus.edu.sg/me/staff/yan-wentao/) and [Prof. Heow Pueh Lee](https://cde.nus.edu.sg/me/staff/lee-heow-pueh/)
-* M.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2016
-* B.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2013
-
 Working Experience
 ---
 * Assistant Professor, City University of Hong Kong (CityU), 2024-Now
 * Research Fellow, National Univerisity of Singapore (NUS), 2023-2024
 * Teaching assistant, National Univerisity of Singapore (NUS), 2020-2021
 * Research associate, Huazhong Univerisity of Science and Technology (HUST), 2019
+
+Education
+---
+* Ph.D in College of Design and Engineering, National University of Singapore (NUS), 2023
+  * Supervisor: [Dr. Wentao Yan](https://cde.nus.edu.sg/me/staff/yan-wentao/) and [Prof. Heow Pueh Lee](https://cde.nus.edu.sg/me/staff/lee-heow-pueh/)
+* M.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2016
+* B.S. in School of Naval Architecture and Ocean Engineering, Huazhong Univerisity of Science and Technology (HUST), 2013
 
 Selected awards
 ---
