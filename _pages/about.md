@@ -22,7 +22,7 @@ Research Interest
 * Computational mechanics
 * Microstructure evolution
 * Mechanical performance
-* 
 
+<br/><img src='/images/Modelling.jpg'>
 
 <br/><img src='/images/MP.jpg'>
