@@ -7,7 +7,7 @@ redirect_from:
   - /Publications-Talks.html
 ---
 
-# Publications
+## Publications
 
 [18] Chia, H. Y., Zhang, Y., **Wang, L.**, & Yan, W. (2024). Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. **_Acta Materialia_**, 275, 120029. ([link](https://doi.org/10.1016/j.actamat.2024.120029))
 
@@ -45,7 +45,7 @@ redirect_from:
 
 [1] **Wang, L.**, Zhang, Y., & Yan, W. (2020). Evaporation model for keyhole dynamics during additive manufacturing of metal. **_Physical Review Applied_**, 14(6), 064039. ([link](https://doi.org/10.1103/PhysRevApplied.14.064039))
 
-# Invited talks
+## Invited talks
 [4] Northwestern Polytechnical University, Xi'an, China, 2024. (Host: **Assoc. Prof. Min Yang**)
 
 [3] Norwegian University of Science and Technology, Trondheim, Norway, 2023. (Host: **Assoc. Prof. Jun Ma**)
@@ -54,7 +54,7 @@ redirect_from:
 
 [1] Wuhan University of Technology, Wuhan, China, 2022.
 
-# Conference presentations
+## Conference presentations
 [4] SIM-AM 2023, Munich, Germany, 2023 (Presentation)
 
 [3] TMS2022, California, US, 2022, Online. (Presentation)
