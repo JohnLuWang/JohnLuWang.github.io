@@ -18,8 +18,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
     
-  - title: "Resume"
-    url: /Resume/
+  # - title: "Resume"
+  #  url: /Resume/
     
   - title: "Contact"
     url: /Contact/
