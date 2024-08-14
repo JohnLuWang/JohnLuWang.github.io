@@ -1,6 +1,6 @@
 ---
 permalink: /Publications-Talks/
-title: "Publication & Talks"
+title: "Publications & Talks"
 author_profile: true
 redirect_from: 
   - /md/
