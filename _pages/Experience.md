@@ -16,8 +16,9 @@ Education
 
 Working Experience
 ---
-* Research Fellow, National Univerisity of Singapore (NUS), 2023-Now
-* Teaching assitant, National Univerisity of Singapore (NUS), 2020-2021
+* Assistant Professor, City University of Hong Kong (CityU), 2024-Now
+* Research Fellow, National Univerisity of Singapore (NUS), 2023-2024
+* Teaching assistant, National Univerisity of Singapore (NUS), 2020-2021
 * Research associate, Huazhong Univerisity of Science and Technology (HUST), 2019
 
 Selected awards
