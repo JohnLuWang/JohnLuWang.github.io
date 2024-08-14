@@ -17,12 +17,17 @@ I have published more than 20 papers in prestigious academic journals, including
 
 Research Interest
 ======
-* Advanced Manufacturing
-* Additive Manufacturing
+* Advanced manufacturing
+* Additive manufacturing
 * Computational mechanics
 * Microstructure evolution
 * Mechanical performance
+* Machine learning
+
+<br/><img src='/images/Overall.jpg'>
+**Overall framework for research interest**
 
 <br/><img src='/images/Modelling.jpg'>
+**High-fidelity multi-scale multiphysics simulation framework**
 
-<br/><img src='/images/MP.jpg'>
+#<br/><img src='/images/MP.jpg'>
