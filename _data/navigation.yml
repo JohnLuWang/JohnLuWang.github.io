@@ -3,11 +3,11 @@ main:
   - title: "Experience"
     url: /Experience/
 
-  - title: "Publications & Talks"
-    url: /non-menu-page/
+  #- title: "Publications"
+  #  url: /publications/
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Publications & Talks"
+    url: /Publications-Talks/
 
   #- title: "Research"
   #  url: /talks/    
