@@ -8,12 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Lu WANG, a Research Fellow at National Univerisity of Singapore in College of Design and Engineering. I am working on the research of simulation and ameliorating of molten pool flow during Metal Additive Manufacturing under the guidance of [Dr. Wentao YAN](https://cde.nus.edu.sg/me/staff/yan-wentao/). My research interest is studying the formation mechanisms of the keyhole pores by molten pool flow during Metal Additive Manufacturing, ameliorating the molten pool flow with the external magnetic field to improve the quality of the as-built part. Our study has made some progress and published papers on npj Computational Materials, Physical Review Applied, Acta Materialia, Journal of Mechanics and Physics of Solids, Additive Manufacturing, etc.
+Hi! I am Dr. Lu Wang, an Assistant Professor in the Department of Mechanical Engineering at the City University of Hong Kong (CityU). Prior to joining CityU, I served as a research fellow at the National University of Singapore (NUS) in 2024. I earned my Ph.D. in Mechanical Engineering from NUS in 2023 and completed my Bachelor’s and Master’s degrees at Huazhong University of Science and Technology (HUST) in 2013 and 2016, respectively.
+
+My research focuses on advanced manufacturing, with a particular emphasis on next-generation digital and smart manufacturing enabled by high-fidelity multi-scale, multi-physics modeling and advanced in-situ experiments. By integrating numerical simulations with advanced experimental observations, I investigate defect formation mechanisms, analyze microstructure evolution, and optimize structural performance during advanced manufacturing processes.
+
+I have published more than 20 papers in prestigious academic journals, including Acta Materialia, npj Computational Materials, International Journal of Machine Tools and Manufacture, Physical Review Applied, and Additive Manufacturing, which have collectively garnered over 640 citations. In 2022, I received the Chinese Government Award for Outstanding Self-financed Students Abroad and secured seven awards (out of a total of 25 tests) in the 2022 NIST AM-Bench Simulation Challenges organized by the U.S. National Institute of Standards and Technology (NIST), emerging as the top performer among all teams. Additionally, I serve as a reviewer for esteemed journals such as Nature Communications, npj Computational Materials, Additive Manufacturing, and Materials & Design.
+
 
 Research Interest
 ======
+* Advanced Manufacturing
 * Additive Manufacturing
-* Molten pool flow dynamic simulation
 * Computational mechanics
+* Microstructure evolution
+* Mechanical performance
+* 
+
 
 <br/><img src='/images/MP.jpg'>
