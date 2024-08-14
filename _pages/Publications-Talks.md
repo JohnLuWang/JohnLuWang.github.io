@@ -9,9 +9,9 @@ redirect_from:
 
 # Publications
 
-[18] Chia, H. Y., Zhang, Y., **Wang, L.**, & Yan, W. (2024). Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. **_Acta Materialia_**, 275, 120029. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1359645424003811))
+[18] Chia, H. Y., Zhang, Y., **Wang, L.**, & Yan, W. (2024). Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. **_Acta Materialia_**, 275, 120029. ([link](https://doi.org/10.1016/j.actamat.2024.120029))
 
-[17] Deng, Q., Chen, F., **Wang, L.**, Liu, Z., Wu, Q., Chang, Z., ... & Ding, W. (2024). Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy. **_Journal of Materials Science & Technology_**. ([link]((https://doi.org/10.1016/j.jmst.2024.07.005)))
+[17] Deng, Q., Chen, F., **Wang, L.**, Liu, Z., Wu, Q., Chang, Z., ... & Ding, W. (2024). Exceptional strength paired with increased cold cracking susceptibility in laser powder bed fusion of a Mg-RE alloy. **_Journal of Materials Science & Technology_**. ([link](https://doi.org/10.1016/j.jmst.2024.07.005))
 
 [16] Xie, Z., Chen, F., **Wang, L.**, Ge, W., & Yan, W. (2024). Data-driven prediction of keyhole features in metal additive manufacturing based on physics-based simulation. **_Journal of Intelligent Manufacturing_**, 35(5), 2313-2326. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1359645424003811))
 
