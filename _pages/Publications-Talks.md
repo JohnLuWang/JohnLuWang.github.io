@@ -47,12 +47,18 @@ redirect_from:
 
 # Invited talks
 [4] Northwestern Polytechnical University, Xi'an, China, 2024. (Host: **Assoc. Prof. Min Yang**)
+
 [3] Norwegian University of Science and Technology, Trondheim, Norway, 2023. (Host: **Assoc. Prof. Jun Ma**)
+
 [2] Huazhong University of Technology and Science, Wuhan, China, 2022. (Host: **Prof. Shengyong Pang**)
+
 [1] Wuhan University of Technology, Wuhan, China, 2022.
 
 # Conference presentations
 [4] SIM-AM 2023, Munich, Germany, 2023 (Presentation)
+
 [3] TMS2022, California, US, 2022, Online. (Presentation)
+
 [2] International Solid Freeform Symposium, Texas, US, 2021, Online. (Presentation)
+
 [1] Materials for Humanity  (MH21), 2021, Online. (Presentation)
