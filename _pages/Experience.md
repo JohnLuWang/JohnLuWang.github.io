@@ -26,3 +26,9 @@ Selected awards
 * Chinese Government Award for Outstanding Self-financed Students Abroad, 2022
 * Three 1st and four 2nd places in AM-Bench 2023, NIST, 2023
 * Research scholarship for graduated students, NUS, 2019-2023
+
+<br/><img src='/images/2022Oversea Scholarship.jpg'>
+**Chinese Government Award for Outstanding Self-financed Students Abroad**
+
+<br/><img src='/images/2022Nist.jpgg'>
+**2022 NIST AM-Bench Simulation Challenges Awards**
