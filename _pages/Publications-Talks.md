@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Publications
+# for co-first author
 [19] **Wang, L.**, Guo, Z., Peng, G., Wu, S., Zhang, Y., & Yan, W. (2024). Evaporation‐Induced Composition Evolution in Metal Additive Manufacturing. **_Advanced Functional Materials_**, 2412071. ([link](https://doi.org/10.1002/adfm.202412071))
 
 [18] Chia, H. Y., Zhang, Y., **Wang, L.**, & Yan, W. (2024). Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. **_Acta Materialia_**, 275, 120029. ([link](https://doi.org/10.1016/j.actamat.2024.120029))
@@ -42,7 +43,7 @@ redirect_from:
 
 [3] Yang, M., **Wang, L.**, & Yan, W. (2021). Phase-field modeling of grain evolutions in additive manufacturing from nucleation, growth, to coarsening. **_Npj Computational Materials_**, 7(1), 56. ([link](https://www.nature.com/articles/s41524-021-00524-6))
 
-[2] Han, Y., **Wang, L.**, Liu, K., & Yan, W. (2020). Numerical modeling of laser powder bed fusion of metallic glasses: Prediction of crystallization. **_Journal of Micromechanics and Molecular Physics_**, 5(04), 2050013. ([link](https://doi.org/10.1142/S2424913020500137))
+[2] Han, Y.#, **Wang, L.**#, Liu, K., & Yan, W. (2020). Numerical modeling of laser powder bed fusion of metallic glasses: Prediction of crystallization. **_Journal of Micromechanics and Molecular Physics_**, 5(04), 2050013. ([link](https://doi.org/10.1142/S2424913020500137))
 
 [1] **Wang, L.**, Zhang, Y., & Yan, W. (2020). Evaporation model for keyhole dynamics during additive manufacturing of metal. **_Physical Review Applied_**, 14(6), 064039. ([link](https://doi.org/10.1103/PhysRevApplied.14.064039))
 
