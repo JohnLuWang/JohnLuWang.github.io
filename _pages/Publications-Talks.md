@@ -20,7 +20,7 @@ redirect_from:
 
 [14] **Wang, L.**, Wang, S., Zhang, Y., & Yan, W. (2023). Multi-phase flow simulation of powder streaming in laser-based directed energy deposition. **_International Journal of Heat and Mass Transfer_**, 212, 124240. ([link](https://doi.org/10.1016/j.ijheatmasstransfer.2023.124240))
 
-[13] Wang, Y., **Wang, L.**, Liu, D., Miao, B., Wu, H., Pei, J., ... & Yuan, G. (2023). Mechanisms of processing map difference between laser powder bed fusion of Mg solid cubes and lattice structures. **_Additive Manufacturing_**, 76, 103773. ([link](https://doi.org/10.1016/j.addma.2023.103773))
+[13] Wang, Y.#, **Wang, L.**#, Liu, D., Miao, B., Wu, H., Pei, J., ... & Yuan, G. (2023). Mechanisms of processing map difference between laser powder bed fusion of Mg solid cubes and lattice structures. **_Additive Manufacturing_**, 76, 103773. ([link](https://doi.org/10.1016/j.addma.2023.103773))
 
 [12] Chia, H. Y., **Wang, L.**, & Yan, W. (2023). Influence of oxygen content on melt pool dynamics in metal additive manufacturing: High-fidelity modeling with experimental validation. **_Acta Materialia_**, 249, 118824. ([link](https://doi.org/10.1016/j.actamat.2023.118824))
 
@@ -30,7 +30,7 @@ redirect_from:
 
 [9] Yu, Y., **Wang, L.**, Zhou, J., Li, H., Li, Y., Yan, W., & Lin, F. (2022). Impact of fluid flow on the dendrite growth and the formation of new grains in additive manufacturing. **_Additive Manufacturing_**, 55, 102832. ([link](https://doi.org/10.1016/j.addma.2022.102832))
 
-[8] Zhang, S., Ding, M., **Wang, L.**, Ge, W., & Yan, W. (2022). Laser powder bed fusion of diamond/N6 MMCs enabled by Ni-Ti coated diamond particles. **_Materials & Design_**, 217, 110635. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1359645424003811))
+[8] Zhang, S.#, Ding, M.#, **Wang, L.**#, Ge, W., & Yan, W. (2022). Laser powder bed fusion of diamond/N6 MMCs enabled by Ni-Ti coated diamond particles. **_Materials & Design_**, 217, 110635. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1359645424003811))
 
 [7] Hu, D., Grilli, N., **Wang, L.**, Yang, M., & Yan, W. (2022). Microscale residual stresses in additively manufactured stainless steel: Computational simulation. **_Journal of the Mechanics and Physics of Solids_**, 161, 104822. ([link](https://doi.org/10.1016/j.matdes.2022.110635))
 
