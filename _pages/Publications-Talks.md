@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Publications
+[19] **Wang, L.**, Guo, Z., Peng, G., Wu, S., Zhang, Y., & Yan, W. (2024). Evaporation‐Induced Composition Evolution in Metal Additive Manufacturing. **_Advanced Functional Materials_**, 2412071. ([link](https://doi.org/10.1002/adfm.202412071))
 
 [18] Chia, H. Y., Zhang, Y., **Wang, L.**, & Yan, W. (2024). Unveiling gas–liquid metal reactions in metal additive manufacturing: High-fidelity modeling validated with experiments. **_Acta Materialia_**, 275, 120029. ([link](https://doi.org/10.1016/j.actamat.2024.120029))
 
